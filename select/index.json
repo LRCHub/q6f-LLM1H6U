@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Miniskirt",
+  "base_artist": "AOA",
+  "createdAt": "2026-03-05T05:48:47.371765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Miniskirt (Japanese Version)",
+      "artist": "AOA",
+      "has_synced": false,
+      "path": "select/01_Miniskirt_(Japanese_Version)_AOA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Miniskirt",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/02_Miniskirt_AOA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "짧은 치마(Miniskirt)",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/03_짧은_치마(Miniskirt)_AOA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "짧은 치마 (Miniskirt)",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/04_짧은_치마_(Miniskirt)_AOA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MIniskirt (Japanese ver.)",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/05_MIniskirt_(Japanese_ver.)_AOA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Miniskirt",
+      "artist": "Raebel",
+      "has_synced": true,
+      "path": "select/06_Miniskirt_Raebel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Miniskirt (Japanese Version)",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/07_Miniskirt_(Japanese_Version)_AOA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミニスカート (Miniskirt) -Japanese ver.-",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/08_ミニスカート_(Miniskirt)_-Japanese_ver.-_AOA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Miniskirt",
+      "artist": "The Sleepy Jackson",
+      "has_synced": false,
+      "path": "select/09_Miniskirt_The_Sleepy_Jackson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Miniskirt Blues",
+      "artist": "The Cramps",
+      "has_synced": true,
+      "path": "select/10_Miniskirt_Blues_The_Cramps.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Miniskirt",
+      "artist": "Braids",
+      "has_synced": true,
+      "path": "select/11_Miniskirt_Braids.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミニスカート (Japanese ver.) - Miniskirt (Japanese Version)",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/12_ミニスカート_(Japanese_ver.)_-_Miniskirt_(Japanese_Version)_AOA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Miniskirt",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/13_Miniskirt_AOA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Miniskirt",
+      "artist": "AOA",
+      "has_synced": false,
+      "path": "select/pl_01_Miniskirt_AOA.txt"
+    }
+  ]
+}
